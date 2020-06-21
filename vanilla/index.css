@@ -1,4 +1,14 @@
 body{
     background-color: peru;
-    color:white;
+    
+}
+h1{
+    color:#34495e;
+    transition : color 0.5s ease-in-out;
+}
+.btn{
+    cursor: pointer;
+}
+.clicked{
+    color: #4be61c;
 }
